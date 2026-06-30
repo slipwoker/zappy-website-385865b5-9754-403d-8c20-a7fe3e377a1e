@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-385865b5.zappy5.app
+https://example.com
 פסטיבל לה מניטו חוגג את רוח היצירה החופשית ומפגיש סופרים עצמאיים עם קהילה תוססת. הרשמה קלה, תשלום מקוון מאובטח וחוויה ספרותית ייחודית מחכים לך. הצטרף עכשיו!
 
 ### הרשמה
-https://-385865b5.zappy5.app/registration
+https://example.com/registration
 ההרשמה לפסטיבל הספרות העצמאי בעיצומה! מלאו פרטים, שלמו בקלות אונליין והפכו לחלק מהאירוע שמשנה את חוקי המשחק. מקומות מוגבלים — הירשמו היום.
 
 ### מידע על הפסטיבל
-https://-385865b5.zappy5.app/festival-info
+https://example.com/festival-info
 כל מה שרציתם לדעת על פסטיבל הסופרים העצמאיים הגדול בישראל. היכרות עם היוצרים, סדנאות ביטוי חופשי, לו&quot;ז האירועים והסיפור מאחורי במת האינדי. בואו לחוות תרבות אחרת.
 
 ### צור קשר
-https://-385865b5.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על ההרשמה, התשלום המקוון או הפסטיבל? צוות לה מניטו כאן כדי לעזור לסופרים ולקהל. השאירו פנייה ונדאג לחזור אליכם במהירות עם כל הפרטים.
 
 ### Products
-https://-385865b5.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - לה מניטו
 
 ### Cart
-https://-385865b5.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-385865b5.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-385865b5.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-385865b5.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-385865b5.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-385865b5.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - לה מניטו
 
 ### Category
-https://-385865b5.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - לה מניטו
 
 ### תודה - לה מניטו
-https://-385865b5.zappy5.app/thank-you
+https://example.com/thank-you
 לה מניטו - תודה - לה מניטו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-385865b5.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-385865b5.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-385865b5.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -99,8 +99,8 @@ Literary Festival / Independent Authors Event
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-385865b5.zappy5.app/sitemap.xml
-- Robots: https://-385865b5.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-385865b5.zappy5.app/llms-full.txt
-- Products (JSON): https://-385865b5.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-385865b5.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
